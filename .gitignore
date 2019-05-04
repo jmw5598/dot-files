@@ -1,0 +1,19 @@
+#IGNORE
+/Atom
+/chromium
+/Code\ -\ OSS
+/composer
+/configstore
+/dconf
+/galculator
+/geany
+/gpick
+/vlc
+/xfce4
+/Thunar
+/systemd
+/procps
+/Postman
+/mimeapps.list
+/heroku
+/gtk-3.0

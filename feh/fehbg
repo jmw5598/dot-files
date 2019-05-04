@@ -1,0 +1,3 @@
+#!/bin/sh
+#feh --bg-scale '/home/jason/pictures/wallpapers/plants/aloe-vera-01_1920x1080.jpg' 
+feh --bg-scale '/home/jason/pictures/wallpapers/plants/aloe-vera-01_1920x1080.jpg' 

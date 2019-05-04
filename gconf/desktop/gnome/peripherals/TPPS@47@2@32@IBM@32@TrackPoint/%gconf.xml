@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="wheel_emulation_timeout" mtime="1553469914" type="int" value="100"/>
+	<entry name="wheel_emulation_inertia" mtime="1553469905" type="int" value="10"/>
+	<entry name="wheel_emulation_x_axis" mtime="1553469902" type="bool" value="true"/>
+	<entry name="wheel_emulation_y_axis" mtime="1553469901" type="bool" value="true"/>
+	<entry name="wheel_emulation_button" mtime="1553469896" type="int" value="1"/>
+	<entry name="wheel_emulation" mtime="1553469893" type="bool" value="true"/>
+	<entry name="middle_button_emulation" mtime="1553470748" type="bool" value="false"/>
+	<entry name="device_type" mtime="1553470739" type="string">
+		<stringvalue>mouse</stringvalue>
+	</entry>
+</gconf>

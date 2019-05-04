@@ -1,0 +1,343 @@
+Jan 20 16:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 16:10 : exception: Failed to open '/home/jason/.config/mpd/state': No such file or directory
+Jan 20 16:10 : client: [0] opened from [::1]:50132
+Jan 20 16:11 : client: [0] closed
+Jan 20 16:23 : client: [1] opened from [::1]:50220
+Jan 20 16:23 : client: [1] closed
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/04 - Sombra.mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/03 - Sniper Rouge feat. Emi (Satellite Young).mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/09 - Syndicate.mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/05 - Jacket.mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/07 - Story Mode.mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/02 - Lit.mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/10 - The Wolven Storm (The Witcher 3 1986 edit).mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/08 - Project 23.mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/06 - Overworld.mp3
+Jan 20 17:13 : update: added Mitch Murder/Selection 4/01 - Title.mp3
+Jan 20 17:15 : client: [2] opened from [::1]:50584
+Jan 20 17:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 17:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 17:18 : client: [2] closed
+Jan 20 17:18 : client: [3] opened from [::1]:50590
+Jan 20 17:19 : client: [3] closed
+Jan 20 17:19 : client: [4] opened from [::1]:50594
+Jan 20 17:21 : client: [4] closed
+Jan 20 17:21 : client: [5] opened from [::1]:50602
+Jan 20 17:22 : client: [6] opened from [::1]:50604
+Jan 20 17:23 : client: [6] closed
+Jan 20 17:23 : client: [5] closed
+Jan 20 17:23 : client: [7] opened from [::1]:50608
+Jan 20 17:24 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 20 17:27 : client: [7] closed
+Jan 20 17:27 : client: [8] opened from [::1]:50904
+Jan 20 17:27 : client: [8] closed
+Jan 20 17:28 : client: [9] opened from [::1]:50908
+Jan 20 17:28 : client: [9] closed
+Jan 20 17:29 : client: [10] opened from [::1]:50962
+Jan 20 17:30 : client: [10] closed
+Jan 20 17:30 : client: [11] opened from [::1]:50968
+Jan 20 17:30 : client: [11] closed
+Jan 20 17:30 : client: [12] opened from [::1]:50972
+Jan 20 17:34 : client: [12] closed
+Jan 20 18:32 : client: [13] opened from [::1]:50990
+Jan 20 18:34 : client: [14] opened from [::1]:50998
+Jan 20 20:33 : client: [13] closed
+Jan 20 20:33 : client: [14] closed
+Jan 20 20:33 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 20 20:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 20:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 20:40 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 20 20:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 20:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 20:48 : client: [0] opened from [::1]:47892
+Jan 20 20:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 20:49 : client: [1] opened from [::1]:47894
+Jan 20 20:50 : client: [0] closed
+Jan 20 20:50 : client: [1] closed
+Jan 20 21:10 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 20 21:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 21:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 22:04 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 20 22:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 22:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 14:56 : client: [0] opened from [::1]:49422
+Jan 21 14:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 14:56 : client: [1] opened from [::1]:49424
+Jan 21 16:03 : client: [2] opened from [::1]:54362
+Jan 21 16:04 : client: [2] closed
+Jan 21 16:08 : client: [1] closed
+Jan 21 16:08 : client: [0] closed
+Jan 21 16:11 : client: [3] opened from [::1]:54882
+Jan 21 16:11 : client: [4] opened from [::1]:54884
+Jan 21 16:15 : client: [3] closed
+Jan 21 16:15 : client: [4] closed
+Jan 21 16:18 : client: [5] opened from [::1]:54982
+Jan 21 16:18 : client: [6] opened from [::1]:54984
+Jan 23 16:31 : client: [5] closed
+Jan 23 16:32 : client: [7] opened from [::1]:59356
+Jan 23 16:34 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 23 16:43 : client: [6] closed
+Jan 23 16:43 : client: [7] closed
+Jan 23 16:43 : client: [8] opened from [::1]:59426
+Jan 23 16:43 : client: [9] opened from [::1]:59428
+Jan 23 16:48 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 23 16:54 : player: played "Mitch Murder/Selection 4/03 - Sniper Rouge feat. Emi (Satellite Young).mp3"
+Jan 23 16:58 : player: played "Mitch Murder/Selection 4/04 - Sombra.mp3"
+Jan 24 19:13 : client: [10] opened from [::1]:40346
+Jan 24 19:13 : client: [11] opened from [::1]:40350
+Jan 24 19:13 : client: [12] opened from [::1]:40352
+Jan 24 19:15 : client: [10] closed
+Jan 24 19:15 : client: [11] closed
+Jan 24 19:15 : client: [12] closed
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/13 - Zombie Night.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/01 - Intro.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/05 - Thrasher.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/03 - Blind.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/10 - Hell Ride.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/06 - Out of Body.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/12 - Mr. Terror.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/02 - Robeast.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/09 - Only a Dream.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/07 - The Deep.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/11 - Cobra.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/15 - Sunset.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/04 - Fracture.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/14 - Stitch.mp3
+Jan 25 17:17 : update: added Dance With the Dead/Out of Body/08 - Dancing on Air.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/02 - Running In The Night (feat. Ol.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/05 - Let's Talk (feat. Timecop1983.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/06 - Arcade Summer.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/03 - Tears.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/11 - Goodbye (feat. Clive Farringto.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/01 - Everything.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/04 - Chasing Yesterday.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/07 - Wild Ones (feat. Ollie Wride).mp3
+Jan 25 17:18 : update: added FM-84/Atlas/10 - Jupiter.mp3
+Jan 25 17:18 : update: added FM-84/Atlas/09 - Atlas (Interlude).mp3
+Jan 25 17:18 : update: added FM-84/Atlas/08 - Don't Want To Change Your Mind.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/01 - Intro.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/06 - Sunset Cruise.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/03 - Elevator of Love.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/04 - On the Run.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/05 - Interlude.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/09 - Outro.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/02 - Early Summer.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/08 - One Last Time.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Early Summer/07 - Miami Funk.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/01 - MN84 Theme.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/03 - Ocean Drive.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/04 - The Gateway.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/07 - New Tomorrow.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/05 - Streets On Fire.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/08 - Tiger42.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/09 - Phone Tag.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/10 - Saved By The Bell.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/06 - Astral Projection.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/02 - Clutch.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/12 - The ENd.mp3
+Jan 25 17:18 : update: added Miami Nights 1984/Turbulence/11 - High Beams.mp3
+Jan 25 17:18 : update: added Moby/Play/15 - Inside.mp3
+Jan 25 17:18 : update: added Moby/Play/17 - The Sky Is Broken.mp3
+Jan 25 17:18 : update: added Moby/Play/08 - Natural Blues.mp3
+Jan 25 17:18 : update: added Moby/Play/18 - My Weakness.mp3
+Jan 25 17:18 : update: added Moby/Play/06 - Rushing.mp3
+Jan 25 17:18 : update: added Moby/Play/01 - Honey.mp3
+Jan 25 17:18 : update: added Moby/Play/07 - Bodyrock.mp3
+Jan 25 17:18 : update: added Moby/Play/04 - Why Does My Heart Feel So Bad?.mp3
+Jan 25 17:18 : update: added Moby/Play/13 - If Things Were Perfect.mp3
+Jan 25 17:18 : update: added Moby/Play/14 - Everloving.mp3
+Jan 25 17:18 : update: added Moby/Play/10 - 7.mp3
+Jan 25 17:18 : update: added Moby/Play/09 - Machete.mp3
+Jan 25 17:18 : update: added Moby/Play/11 - Run On.mp3
+Jan 25 17:18 : update: added Moby/Play/03 - Porcelain.mp3
+Jan 25 17:18 : update: added Moby/Play/02 - Find My Baby.mp3
+Jan 25 17:18 : update: added Moby/Play/16 - Guitar Flute & String.mp3
+Jan 25 17:18 : update: added Moby/Play/05 - South Side.mp3
+Jan 25 17:18 : update: added Moby/Play/12 - Down Slow.mp3
+Jan 25 18:21 : client: [9] closed
+Jan 25 18:21 : client: [13] opened from [::1]:42496
+Jan 25 21:15 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 26 08:51 : player: played "Miami Nights 1984/Early Summer/06 - Sunset Cruise.mp3"
+Jan 26 08:56 : player: played "Dance With the Dead/Out of Body/06 - Out of Body.mp3"
+Jan 26 09:00 : client: [8] closed
+Jan 26 09:00 : client: [14] opened from [::1]:44816
+Jan 26 09:00 : client: [13] closed
+Jan 26 09:00 : client: [15] opened from [::1]:44818
+Jan 26 09:01 : player: played "Mitch Murder/Selection 4/06 - Overworld.mp3"
+Jan 26 09:01 : exception: Not playing
+Jan 26 09:02 : client: [15] closed
+Jan 26 09:02 : client: [16] opened from [::1]:44826
+Jan 26 09:02 : client: [14] closed
+Jan 26 09:02 : client: [17] opened from [::1]:44828
+Jan 26 09:06 : player: played "Mitch Murder/Selection 4/05 - Jacket.mp3"
+Jan 26 09:10 : player: played "Moby/Play/08 - Natural Blues.mp3"
+Jan 26 09:15 : player: played "Mitch Murder/Selection 4/09 - Syndicate.mp3"
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/06. The Equaliser (Not Alone).mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/07. The Comeback Kid.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/08. Vampires.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/11. Lonely City.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/04. Jason (feat. Nikki Flores).mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/01. Endless Summer.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/03. Daytona.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/12. Memories.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/09. Crockett's Revenge.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/02. Sunset.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/05. Synthetic.mp3
+Jan 26 09:15 : update: added The Midnight/Endless Summer (2016)/10. Nighthawks.mp3
+Jan 26 09:16 : update: added The Midnight/Nocturnal (2017)/01 Shadows.mp3
+Jan 26 09:16 : update: added The Midnight/Nocturnal (2017)/07 Tokyo Night Train.mp3
+Jan 26 09:16 : update: added The Midnight/Nocturnal (2017)/02 Crystalline.mp3
+Jan 26 09:16 : update: added The Midnight/Nocturnal (2017)/06 Light Years (feat. Nikki Flores).mp3
+Jan 26 09:16 : update: added The Midnight/Nocturnal (2017)/04 River of Darkness (feat. Timecop1983).mp3
+Jan 26 09:16 : update: added The Midnight/Nocturnal (2017)/05 Nocturnal.mp3
+Jan 26 09:16 : update: added The Midnight/Nocturnal (2017)/03 Collateral.mp3
+Jan 26 09:22 : player: played "The Midnight/Endless Summer (2016)/08. Vampires.mp3"
+Jan 26 09:26 : player: played "Mitch Murder/Selection 4/03 - Sniper Rouge feat. Emi (Satellite Young).mp3"
+Jan 26 09:32 : player: played "The Midnight/Endless Summer (2016)/07. The Comeback Kid.mp3"
+Jan 26 09:41 : player: played "The Midnight/Nocturnal (2017)/02 Crystalline.mp3"
+Jan 26 09:45 : player: played "Moby/Play/01 - Honey.mp3"
+Jan 26 09:47 : player: played "Miami Nights 1984/Early Summer/07 - Miami Funk.mp3"
+Jan 26 09:52 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Jan 26 17:02 : player: played "Miami Nights 1984/Early Summer/06 - Sunset Cruise.mp3"
+Jan 26 17:07 : player: played "Dance With the Dead/Out of Body/03 - Blind.mp3"
+Jan 26 17:12 : player: played "FM-84/Atlas/02 - Running In The Night (feat. Ol.mp3"
+Jan 26 17:20 : player: played "The Midnight/Endless Summer (2016)/07. The Comeback Kid.mp3"
+Jan 26 17:27 : player: played "The Midnight/Nocturnal (2017)/06 Light Years (feat. Nikki Flores).mp3"
+Jan 26 17:33 : player: played "The Midnight/Endless Summer (2016)/02. Sunset.mp3"
+Jan 26 19:02 : player: played "The Midnight/Endless Summer (2016)/12. Memories.mp3"
+Jan 26 19:06 : player: played "Moby/Play/08 - Natural Blues.mp3"
+Jan 26 19:26 : player: played "Moby/Play/08 - Natural Blues.mp3"
+Jan 26 19:33 : player: played "The Midnight/Endless Summer (2016)/08. Vampires.mp3"
+Jan 26 19:36 : player: played "Mitch Murder/Selection 4/06 - Overworld.mp3"
+Jan 26 19:39 : player: played "Moby/Play/07 - Bodyrock.mp3"
+Jan 26 19:43 : player: played "The Midnight/Endless Summer (2016)/10. Nighthawks.mp3"
+Jan 26 19:53 : player: played "FM-84/Atlas/02 - Running In The Night (feat. Ol.mp3"
+Jan 26 19:57 : player: played "Moby/Play/05 - South Side.mp3"
+Jan 26 20:02 : player: played "Dance With the Dead/Out of Body/09 - Only a Dream.mp3"
+Feb 01 20:53 : client: [16] closed
+Feb 01 20:53 : client: [17] closed
+Feb 01 20:53 : player: played "Dance With the Dead/Out of Body/09 - Only a Dream.mp3"
+Feb 01 20:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 01 20:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 01 20:54 : client: [0] opened from [::1]:54970
+Feb 01 20:54 : client: [1] opened from [::1]:54972
+Feb 01 20:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 03 08:37 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Feb 03 08:42 : player: played "FM-84/Atlas/02 - Running In The Night (feat. Ol.mp3"
+Feb 03 08:48 : player: played "The Midnight/Nocturnal (2017)/02 Crystalline.mp3"
+Feb 03 09:03 : player: played "The Midnight/Endless Summer (2016)/09. Crockett's Revenge.mp3"
+Feb 03 09:08 : player: played "Dance With the Dead/Out of Body/09 - Only a Dream.mp3"
+Feb 03 09:13 : player: played "The Midnight/Nocturnal (2017)/06 Light Years (feat. Nikki Flores).mp3"
+Feb 03 09:17 : player: played "Moby/Play/03 - Porcelain.mp3"
+Feb 03 09:24 : player: played "The Midnight/Nocturnal (2017)/06 Light Years (feat. Nikki Flores).mp3"
+Feb 03 09:28 : player: played "Moby/Play/03 - Porcelain.mp3"
+Feb 03 09:46 : player: played "Mitch Murder/Selection 4/10 - The Wolven Storm (The Witcher 3 1986 edit).mp3"
+Feb 03 10:48 : player: played "The Midnight/Endless Summer (2016)/02. Sunset.mp3"
+Feb 03 10:52 : player: played "Moby/Play/05 - South Side.mp3"
+Feb 12 12:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 19:10 : update: added The Smashing Pumpkins/Shiny And Oh So Bright/08. Seek and You Shall Destroy.mp3
+Feb 16 19:10 : update: added The Smashing Pumpkins/Shiny And Oh So Bright/03. Travels.mp3
+Feb 16 19:10 : update: added The Smashing Pumpkins/Shiny And Oh So Bright/07. With Sympathy.mp3
+Feb 16 19:10 : update: added The Smashing Pumpkins/Shiny And Oh So Bright/04. Solara.mp3
+Feb 16 19:10 : update: added The Smashing Pumpkins/Shiny And Oh So Bright/02. Silvery Sometimes (Ghosts).mp3
+Feb 16 19:10 : update: added The Smashing Pumpkins/Shiny And Oh So Bright/05. Alienation.mp3
+Feb 16 19:10 : update: added The Smashing Pumpkins/Shiny And Oh So Bright/06. Marchin' On.mp3
+Feb 16 19:10 : update: added The Smashing Pumpkins/Shiny And Oh So Bright/01. Knights of Malta.mp3
+Feb 16 19:10 : client: [0] opened from [::1]:53630
+Feb 16 19:10 : client: [1] opened from [::1]:53712
+Feb 16 19:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 09:24 : player: played "The Smashing Pumpkins/Shiny And Oh So Bright/02. Silvery Sometimes (Ghosts).mp3"
+Feb 23 14:21 : update: added The Midnight/Days of Thunder/The Midnight - Days of Thunder - 03 WeMoveForward.mp3
+Feb 23 14:21 : update: added The Midnight/Days of Thunder/The Midnight - Days of Thunder - 02 Gloria.mp3
+Feb 23 14:21 : update: added The Midnight/Days of Thunder/The Midnight - Days of Thunder - 01 The Years (prologue).mp3
+Feb 23 14:21 : update: added The Midnight/Days of Thunder/The Midnight - Days of Thunder - 04 Days of Thunder.mp3
+Feb 23 14:21 : update: added The Midnight/Days of Thunder/The Midnight - Days of Thunder - 06 Los Angeles.mp3
+Feb 23 14:21 : update: added The Midnight/Days of Thunder/The Midnight - Days of Thunder - 05 Kick Drums & Red Wine.mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 07 America 2.mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 04 Lost Boy.mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 03 Kids (Prelude).mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 02 Wave.mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 06 Explorers.mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 08 Arcade Dreams.mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 09 Kids (Reprise).mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 01 Youth.mp3
+Feb 23 14:22 : update: added The Midnight/Kids/The Midnight - Kids - 05 Saturday Mornings (Interlude).mp3
+Feb 23 14:44 : client: [1] closed
+Feb 23 14:44 : client: [0] closed
+Feb 23 14:44 : player: played "The Midnight/Kids/The Midnight - Kids - 08 Arcade Dreams.mp3"
+Feb 23 14:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 14:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 15:35 : client: [0] opened from [::1]:58090
+Feb 23 15:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 15:35 : client: [1] opened from [::1]:58096
+Feb 23 15:39 : player: played "The Midnight/Kids/The Midnight - Kids - 07 America 2.mp3"
+Feb 23 15:42 : player: played "Moby/Play/01 - Honey.mp3"
+Feb 23 15:48 : player: played "The Midnight/Days of Thunder/The Midnight - Days of Thunder - 04 Days of Thunder.mp3"
+Feb 27 17:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 17:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 17:40 : client: [0] opened from [::1]:51288
+Feb 27 17:40 : client: [1] opened from [::1]:51290
+Feb 27 17:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 18:02 : player: played "The Smashing Pumpkins/Shiny And Oh So Bright/02. Silvery Sometimes (Ghosts).mp3"
+Mar 01 18:53 : player: played "The Midnight/Endless Summer (2016)/02. Sunset.mp3"
+Mar 01 19:03 : player: played "The Midnight/Days of Thunder/The Midnight - Days of Thunder - 06 Los Angeles.mp3"
+Mar 01 19:07 : player: played "The Smashing Pumpkins/Shiny And Oh So Bright/01. Knights of Malta.mp3"
+Mar 01 19:11 : player: played "Mitch Murder/Selection 4/05 - Jacket.mp3"
+Mar 01 19:15 : player: played "The Smashing Pumpkins/Shiny And Oh So Bright/07. With Sympathy.mp3"
+Mar 01 19:17 : player: played "Miami Nights 1984/Early Summer/07 - Miami Funk.mp3"
+Mar 01 19:21 : player: played "Moby/Play/01 - Honey.mp3"
+Mar 01 19:26 : player: played "The Midnight/Days of Thunder/The Midnight - Days of Thunder - 02 Gloria.mp3"
+Mar 02 15:09 : player: played "The Midnight/Endless Summer (2016)/02. Sunset.mp3"
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 11 Symmetrical.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 05 Rise The Midnight Girl.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 12 Cyber City.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 13 The Gates Of Disorder.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 01 Woken Furies.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 03 When You Grow Up, Your Heart Dies.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 08 Time After Time.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 09 Honour Among Thieves.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 04 The Drone Racing League.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 06 Thrasher.mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 02 Dark All Day (feat. Tim Cappello & Indiana).mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 07 Black Blood Red Kiss (feat. Kat Von D).mp3
+Mar 03 08:38 : update: added Gunship/Dark All Day/GUNSHIP - Dark All Day - 10 Art3mis & Parzival (feat. Stella Le Page).mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 09 Fly For Your Life.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 11 Tech Noir (Carpenter Brut Remix).mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 04 Shadow Fury.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 08 The Hegemon.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 06 Kitsune.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 05 Pink Mist.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 01 The Mountain.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 12 Revel In Your Time (Miami Nights 1984 Remix).mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 13 Black Sun On The Horizon (Makeup and Vanity Set).mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 07 Black Sun On The Horizon.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 03 Tech Noir.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 02 Revel In Your Time.mp3
+Mar 03 08:39 : update: added Gunship/Gunship/GUNSHIP - GUNSHIP - 10 Maximum Black.mp3
+Mar 03 08:44 : player: played "Gunship/Dark All Day/GUNSHIP - Dark All Day - 02 Dark All Day (feat. Tim Cappello & Indiana).mp3"
+Mar 03 08:51 : player: played "Gunship/Dark All Day/GUNSHIP - Dark All Day - 03 When You Grow Up, Your Heart Dies.mp3"
+Mar 03 16:53 : player: played "Gunship/Dark All Day/GUNSHIP - Dark All Day - 02 Dark All Day (feat. Tim Cappello & Indiana).mp3"
+Mar 03 17:01 : player: played "The Midnight/Days of Thunder/The Midnight - Days of Thunder - 03 WeMoveForward.mp3"
+Mar 03 17:08 : player: played "Gunship/Dark All Day/GUNSHIP - Dark All Day - 03 When You Grow Up, Your Heart Dies.mp3"
+Mar 03 17:14 : player: played "The Midnight/Endless Summer (2016)/12. Memories.mp3"
+Mar 03 17:19 : player: played "FM-84/Atlas/02 - Running In The Night (feat. Ol.mp3"
+Mar 03 17:23 : player: played "The Midnight/Kids/The Midnight - Kids - 08 Arcade Dreams.mp3"
+Mar 03 17:27 : player: played "Dance With the Dead/Out of Body/15 - Sunset.mp3"
+Mar 03 17:32 : player: played "Mitch Murder/Selection 4/02 - Lit.mp3"
+Mar 03 17:38 : player: played "Gunship/Dark All Day/GUNSHIP - Dark All Day - 03 When You Grow Up, Your Heart Dies.mp3"
+Mar 15 20:10 : player: played "The Smashing Pumpkins/Shiny And Oh So Bright/02. Silvery Sometimes (Ghosts).mp3"
+Mar 15 20:15 : player: played "Gunship/Dark All Day/GUNSHIP - Dark All Day - 02 Dark All Day (feat. Tim Cappello & Indiana).mp3"
+Mar 15 20:25 : player: played "The Midnight/Endless Summer (2016)/02. Sunset.mp3"
+Mar 15 20:30 : player: played "The Midnight/Days of Thunder/The Midnight - Days of Thunder - 02 Gloria.mp3"
+Mar 15 20:38 : player: played "The Midnight/Nocturnal (2017)/06 Light Years (feat. Nikki Flores).mp3"
+Mar 15 20:43 : player: played "Dance With the Dead/Out of Body/03 - Blind.mp3"
+Mar 15 20:47 : player: played "The Midnight/Kids/The Midnight - Kids - 06 Explorers.mp3"
+Mar 20 18:20 : player: played "The Smashing Pumpkins/Shiny And Oh So Bright/02. Silvery Sometimes (Ghosts).mp3"
+Mar 20 18:34 : player: played "The Smashing Pumpkins/Shiny And Oh So Bright/02. Silvery Sometimes (Ghosts).mp3"
+Mar 20 18:38 : player: played "Dance With the Dead/Out of Body/05 - Thrasher.mp3"
+Apr 04 16:18 : player: played "Gunship/Dark All Day/GUNSHIP - Dark All Day - 02 Dark All Day (feat. Tim Cappello & Indiana).mp3"
+Apr 05 20:45 : client: [0] closed
+Apr 05 20:45 : client: [1] closed
+Apr 10 19:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 16:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
