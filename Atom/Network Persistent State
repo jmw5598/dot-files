@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"https://central.github.com":{"supports_spdy":true}},{"https://f.cloud.github.com":{"supports_spdy":true}},{"https://www.google-analytics.com":{"supports_spdy":true}},{"https://github-atom-io-herokuapp-com.freetls.fastly.net":{"supports_spdy":true}}],"version":5}}}
