@@ -16,3 +16,8 @@
 /mimeapps.list
 /heroku
 /gtk-3.0
+/Atom/Cache
+/Atom/GPUCache
+/Atom/IndexedDb
+/Atom/QuotaManager
+/Atom/Local\ Storage
